@@ -79,4 +79,4 @@ cv2.imshow('Grayscale',array_img)
 cv2.waitKey(0)
   
 
-mustafa = CCL(array_img)
+piyush = CCL(array_img)
